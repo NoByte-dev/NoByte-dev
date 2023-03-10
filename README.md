@@ -16,31 +16,24 @@
 
 ## Stats 🏷️
 <div align="center">
-<img width="58%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nobyte-dev&show_icons=true&theme=dark&bg_color=00000000&hide_border=true"/>
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobyte-dev&hide_progress=false&layout=compact&hide_border=true&theme=dark&bg_color=00000000"/>
+<a href="#"> <img width="58%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nobyte-dev&show_icons=true&theme=dark&bg_color=00000000&hide_border=true"></a>
+<a href="#"> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobyte-dev&hide_progress=false&layout=compact&hide_border=true&theme=dark&bg_color=00000000"></a>
 </div>
 
 ## Techs 🏷️
 <div align="center">
 <a href="#">
-    <img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
-  </a>
+    <img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></a>
 <a href="#">
-    <img src="https://img.shields.io/badge/rubyonrails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white">
-  </a>
+    <img src="https://img.shields.io/badge/rubyonrails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white"></a>
 <a href="#">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  </a>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="#">
-    <img src="https://img.shields.io/badge/CSharp-1572B6?style=for-the-badge&logo=csharp&logoColor=white">
-  </a>
+    <img src="https://img.shields.io/badge/CSharp-1572B6?style=for-the-badge&logo=csharp&logoColor=white"></a>
 <a href="#">
-    <img src="https://img.shields.io/badge/.NET-1572B6?style=for-the-badge&logo=dotnet&logoColor=white">
-  </a>
+    <img src="https://img.shields.io/badge/.NET-1572B6?style=for-the-badge&logo=dotnet&logoColor=white"></a>
 <a href="#">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  </a>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="#">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  </a>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 </div>
